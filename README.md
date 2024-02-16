@@ -2,3 +2,5 @@
 How do you turn this on?
 
 This is my first attempt at building a website. Sun, 4 Feb 2024. Bea watching Grammy's lol
+
+let's update this just cuz 16 Feb
